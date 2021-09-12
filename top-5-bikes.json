@@ -1,0 +1,70 @@
+[
+    {
+        "model": "Spicy CF 6.9",
+        "url": "https://www.lapierre-bike.cz/produkt/spicy-cf-69/5943",
+        "main_photo_path": "https://mojekolo.online/foto/product/full/lapierre-spicy-cf-69-2021-15-8308.JPG",
+        "additional_photo_paths": [
+            "https://mojekolo.online/foto/product/full/lapierre-lapierre-spicy-cf-69-2021-3.JPG",
+            "https://mojekolo.online/foto/product/full/lapierre-lapierre-spicy-cf-69-2021-4.JPG",
+            "https://mojekolo.online/foto/product/full/lapierre-lapierre-spicy-cf-69-2021-5.JPG"
+        ],
+        "price": 114990,
+        "model_year": 2021,
+        "parameters": {
+            "weight": "15,8 kg",
+            "frame": "SPICY FULL CARBON ULTIMATE 170mm travel (29'') PRESSFIT, BOOST, METRIC, THRU AXLE"
+        }
+    },
+    {
+        "model": "Aircode DRS 5.0",
+        "url": "https://www.lapierre-bike.cz/produkt/aircode-drs-50/5931",
+        "main_photo_path": "https://mojekolo.online/foto/product/full/lapierre-aircode-drs-50-2021-17-6409.JPG",
+        "additional_photo_paths": [
+            "https://mojekolo.online/foto/product/full/lapierre-lapierre-aircode-drs-50-2021-4.JPG",
+            "https://mojekolo.online/foto/product/full/lapierre-lapierre-aircode-drs-50-2021-5.JPG",
+            "https://mojekolo.online/foto/product/full/lapierre-lapierre-aircode-drs-50-2021-6.JPG"
+        ],
+        "price": 95990,
+        "model_year": 2021,
+        "parameters": {
+            "weight": "8,88 kg",
+            "frame": "AIRCODE DRS DISC THRU AXLE UD SUPERLIGHT CARBON"
+        }
+    },
+    {
+        "model": "e-Sensium 2.2 M250",
+        "url": "https://www.lapierre-bike.cz/produkt/esensium-22-m250/5945",
+        "main_photo_path": "https://mojekolo.online/foto/product/full/lapierre-ebikes-esensium-22-m250-2022-17-2419.JPG",
+        "additional_photo_paths": null,
+        "price": 63990,
+        "model_year": 2021,
+        "parameters": {
+            "weight": "14,7 kg",
+            "frame": "E-SENSIUM SUPREME 5 ALLOY with integrated routing"
+        }
+    },
+    {
+        "model": "Lapierre Prorace 24 Girl",
+        "url": "https://www.lapierre-bike.cz/produkt/lapierre-prorace-24-girl/5990",
+        "main_photo_path": "https://mojekolo.online/foto/product/full/lapierrelapierre-prorace-24-girl-2021-2.JPG",
+        "additional_photo_paths": null,
+        "price": 10590,
+        "model_year": 2021,
+        "parameters": {
+            "weight": null,
+            "frame": "PRORACE GIRL 24\" SUPREME 4 ALLOY V-BRAKE"
+        }
+    },
+    {
+        "model": "Trekking 3.0",
+        "url": "https://www.lapierre-bike.cz/produkt/treking-30/6011",
+        "main_photo_path": null,
+        "additional_photo_paths": null,
+        "price": 18990,
+        "model_year": 2021,
+        "parameters": {
+            "weight": null,
+            "frame": "TREKKING DISC 700c SUPREME 4 ALLOY"
+        }
+    }
+]
